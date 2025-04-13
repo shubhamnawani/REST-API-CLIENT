@@ -116,3 +116,8 @@ JSON parsing using external libraries
 Error handling and response code verification
 
 Building real-time, data-driven applications
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e22c5a27-db66-45e7-8cb2-b6a5ca96f86b)
